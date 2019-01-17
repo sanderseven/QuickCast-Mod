@@ -283,14 +283,6 @@
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.pornhub.com%2f",
 			"order": 11,
 			"lan": "en"
-		}, {
-			"id": "68",
-			"name": "PornHub",
-			"url": "https://www.pornhub.com/",
-			"icon": "https://favicongrabber.com/download/https://www.pornhub.com/manifest-icons/icon-96x96.png",
-			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.pornhub.com%2f",
-			"order": 11,
-			"lan": "en"
 		}]
 	}
 }
