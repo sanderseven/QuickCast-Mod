@@ -44,37 +44,21 @@
 			"order": 10,
 			"lan": ""
 		}, {
-			"id": "46",
-			"name": "Have Issues?",
-			"url": "https:\/\/goo.gl\/forms\/Hc6g2L3f45IFETqj1",
-			"icon": "https:\/\/s3-us-west-1.amazonaws.com\/quickcastapp\/image\/72icon_issue.png",
-			"router": "\/page\/browser?targetUrl=https%3a%2f%2fgoo.gl%2fforms%2fHc6g2L3f45IFETqj1",
-			"order": 10,
-			"lan": ""
-		}, {
-			"id": "60",
-			"name": "Tutorial",
-			"url": "https:\/\/s3-us-west-1.amazonaws.com\/quickcastapp\/video\/QuickCast+Promo+Video.mp4",
-			"icon": "https:\/\/s3-us-west-1.amazonaws.com\/quickcastapp\/image\/72icon_howtocast.png",
-			"router": "\/page\/browser?targetUrl=https%3a%2f%2fs3-us-west-1.amazonaws.com%2fquickcastapp%2fvideo%2fQuickCast%2bPromo%2bVideo.mp4",
-			"order": 10,
-			"lan": ""
-		}, {
 			"id": "4",
 			"name": "YouTube",
 			"url": "https:\/\/m.youtube.com\/",
 			"icon": "https:\/\/api.cetusplay.com\/static\/.\/quickcast\/YouTube.png",
 			"router": "\/page\/browser?targetUrl=https%3A%2F%2Fm.youtube.com%2F",
-			"order": 10,
+			"order": 11,
 			"lan": ""
 		}, {
 			"id": "153",
-			"name": "Public Domain Movies - Top Films in the Public Domain",
-			"url": "https:\/\/publicdomainmovies.info\/",
-			"icon": "https:\/\/i.loli.net\/2019\/01\/15\/5c3db4377bf32.png",
-			"router": "\/page\/browser?targetUrl=https%3A%2F%2Fpublicdomainmovies.info%2F",
-			"order": 12,
-			"lan": "en"
+			"name": "XVIDEOS",
+			"url": "https://www.xvideos.com",
+			"icon": "https://www.xvideos.com/favicon-32x32.png",
+			"router": "\/page\/browser?targetUrl=https%3A%2F%2Fwww.xvideos.com",
+			"order": 11,
+			"lan": ""
 		}]
 	}
 }
