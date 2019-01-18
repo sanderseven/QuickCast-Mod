@@ -47,7 +47,7 @@
 			"id": "4",
 			"name": "XVideo",
 			"url": "https://www.xvideos.com/",
-			"icon": "https://favicongrabber.com/download/https://www.xvideos.com/favicon-32x32.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_XVIDEOS.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.xvideos.com%2f",
 			"order": 12,
 			"lan": ""
@@ -55,7 +55,7 @@
 			"id": "36",
 			"name": "Smutr",
 			"url": "https://smutr.com/",
-			"icon": "https://favicongrabber.com/download/https://smutr.com/favicon-32x32.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_smutr.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fsmutr.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -63,7 +63,7 @@
 			"id": "54",
 			"name": "VPorn",
 			"url": "https://www.vporn.com/",
-			"icon": "https://favicongrabber.com/download/https://www.vporn.com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_vporn.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.vporn.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -95,7 +95,7 @@
 			"id": "35",
 			"name": "Xnxx",
 			"url": "https://www.xnxx.com/",
-			"icon": "https://favicongrabber.com/download/https://www.xnxx.com/favicon-32x32.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_XNXX.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.xnxx.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -103,7 +103,7 @@
 			"id": "56",
 			"name": "Redtube",
 			"url": "https://www.redtube.com/",
-			"icon": "https://favicongrabber.com/download/https://thumbs-cdn.redtube.com/www-static/cdn_files/redtube/icons/favicon.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_redtube.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.redtube.com%2f",
 			"order": 12,
 			"lan": "es"
@@ -111,7 +111,7 @@
 			"id": "6",
 			"name": "YouPorn",
 			"url": "https://www.youporn.com/",
-			"icon": "https://favicongrabber.com/download/https://www.youporn.com/bundles/youpornwebfront/images/manifest-icons/android-icon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_youporn.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.youporn.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -127,7 +127,7 @@
 			"id": "52",
 			"name": "AnyPorn",
 			"url": "https://anyporn.com/",
-			"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQI9OrdRyb-G5eheXQlv-lQNQI_iXEjSkYblbQmAwjztzrcZ6-TQ",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_anyporn.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fanyporn.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -135,7 +135,7 @@
 			"id": "19",
 			"name": "Fux",
 			"url": "https://www.fux.com/",
-			"icon": "https://favicongrabber.com/download/https://www.fux.com/android-icon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_fux.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.fux.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -159,7 +159,7 @@
 			"id": "104",
 			"name": "KeezMovie",
 			"url": "https://www.keezmovies.com/",
-			"icon": "https://favicongrabber.com/download/https://cdn1-static-keezmovies.spankcdn.net/v2/images/apple-touch-icon-precomposed.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_keez.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.keezmovies.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -167,7 +167,7 @@
 			"id": "113",
 			"name": "ExtremeTube",
 			"url": "https://www.extremetube.com/",
-			"icon": "https://favicongrabber.com/download/https://cdn1-static-extremetube.spankcdn.net/images/apple-touch-icon-120x120.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_extremetube.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.extremetube.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -175,7 +175,7 @@
 			"id": "42",
 			"name": "FlyFlv",
 			"url": "https://www.flyflv.com/",
-			"icon": "https://favicongrabber.com/download/https://static.flyflv.com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_flyfly.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.flyflv.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -183,7 +183,7 @@
 			"id": "45",
 			"name": "PornTube",
 			"url": "https://www.porntube.com/",
-			"icon": "https://favicongrabber.com/download/https://cdn1-ht-assets.porntube.com/apple-touch-icon-120x120.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_PornTube.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.porntube.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -199,7 +199,7 @@
 			"id": "50",
 			"name": "Faapy",
 			"url": "https://faapy.com/",
-			"icon": "https://favicongrabber.com/download/https://faapy.com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_faapy.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2ffaapy.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -207,7 +207,7 @@
 			"id": "55",
 			"name": "VivaTube",
 			"url": "https://www.vivatube.com/",
-			"icon": "https://favicongrabber.com/download/https://p7.vivpsn.com/templates/vivatube_v2/images/apple-touch-icon-114x114.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_vivatube.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.vivatube.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -215,7 +215,7 @@
 			"id": "57",
 			"name": "TubeOn",
 			"url": "https://www.tubeon.com/",
-			"icon": "https://favicongrabber.com/download/https://p4.tbnpsn.com/templates/tubeon_v2/images/apple-touch-icon-114x114.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_tubeOn.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.tubeon.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -223,7 +223,7 @@
 			"id": "58",
 			"name": "Sex3",
 			"url": "https://sex3.com/",
-			"icon": "https://favicongrabber.com/download/https://sex3.com/images/ico/apple-touch-icon-72.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_sex3.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fsex3.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -231,7 +231,7 @@
 			"id": "62",
 			"name": "YepTube",
 			"url": "https://www.yeptube.com/",
-			"icon": "https://favicongrabber.com/download/https://p0.yptpsn.com/templates/yeptube_v2/images/apple-touch-icon-114x114.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_yeptube.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.yeptube.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -239,7 +239,7 @@
 			"id": "64",
 			"name": "BongaCams",
 			"url": "https://en.bongacams.com/",
-			"icon": "https://favicongrabber.com/download/https://i.bongacams.com/images/apple_icons/apple-touch-icon-114x114.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_bongacams.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fen.bongacams.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -247,7 +247,7 @@
 			"id": "65",
 			"name": "Cam4",
 			"url": "https://www.cam4.com/",
-			"icon": "https://favicongrabber.com/download/https://cam4-static.xcdnpro.com/web/images/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_cam4.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.cam4.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -255,7 +255,7 @@
 			"id": "66",
 			"name": "CamSoda",
 			"url": "https://www.camsoda.com/",
-			"icon": "https://favicongrabber.com/download/https://www.camsoda.com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_camsoda.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.camsoda.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -271,7 +271,7 @@
 			"id": "68",
 			"name": "ChaturBate",
 			"url": "https://m.chaturbate.com/",
-			"icon": "https://favicongrabber.com/download/https://ssl-ccstatic.highwebmedia.com/favicons/favicon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_chaturbate..png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fm.chaturbate.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -279,7 +279,7 @@
 			"id": "68",
 			"name": "PornHub",
 			"url": "https://www.pornhub.com/",
-			"icon": "https://favicongrabber.com/download/https://www.pornhub.com/manifest-icons/icon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_pornhub.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.pornhub.com%2f",
 			"order": 11,
 			"lan": "en"
