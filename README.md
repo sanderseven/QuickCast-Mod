@@ -1,6 +1,7 @@
 # QuickCast(Mod)
 
-**The hacked version of QuickCast Cast to TV devices tools app. https://play.google.com/store/apps/details?id=com.wukongtv.wkcast.intl**
+**The hacked version of QuickCast Cast to TV devices tools app**
+Original: https://play.google.com/store/apps/details?id=com.wukongtv.wkcast.intl
 
 [**Download APK**](https://github.com/sanderseven/QuickCast-Mod/raw/master/QuickCast-mod.apk)
 
