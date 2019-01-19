@@ -4,7 +4,7 @@
 
 Screenshots:
 
-![41656175dfa598c9b2ea8e7647a0b43.jpg](https://i.loli.net/2019/01/18/5c41df58b5bfa.jpg)
+![screenshot](https://i.loli.net/2019/01/19/5c42870691c62.png)
 
 
 **Hacked feature:**
