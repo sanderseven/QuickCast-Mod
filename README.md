@@ -11,6 +11,7 @@
 
 Supported local playback and cast features for adult websites
 
-**Download**
+
+[**Download APK**](https://github.com/sanderseven/QuickCast-Mod/raw/master/QuickCast-mod.apk)
 
 
