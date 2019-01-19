@@ -71,7 +71,7 @@
 			"id": "16",
 			"name": "AnySex",
 			"url": "https://anysex.com/",
-			"icon": "https://favicongrabber.com/download/https://anysex.com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_anysex.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fanysex.com%2f",
 			"order": 12,
 			"lan": ""
@@ -79,7 +79,7 @@
 			"id": "119",
 			"name": "Xhamster",
 			"url": "https://xhamster.com/",
-			"icon": "https://favicongrabber.com/download/https://static-cl.xhcdn.com/images/favicon/new/favicon-32x32.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_xhamster.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fxhamster.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -87,7 +87,7 @@
 			"id": "51",
 			"name": "PornDig",
 			"url": "https://www.porndig.com/",
-			"icon": "https://favicongrabber.com/download/https://assets.porndig.com/assets/porndig/img/favicon_ios.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_porndig.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.porndig.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -119,7 +119,7 @@
 			"id": "10",
 			"name": "Tube8",
 			"url": "https://www.tube8.com/",
-			"icon": "https://favicongrabber.com/download/https://www.tube8.com/images/manifest-icons/android-icon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_tube8.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.tube8.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -143,7 +143,7 @@
 			"id": "3",
 			"name": "Spankwire",
 			"url": "https://www.spankwire.com/",
-			"icon": "https://favicongrabber.com/download/https://cdn1-static-spankwire.spankcdn.net/apple-touch-icon-precomposed.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_spankwire.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwww.spankwire.com%2f",
 			"order": 11,
 			"lan": "en"
@@ -151,7 +151,7 @@
 			"id": "41",
 			"name": "Upornia",
 			"url": "https://upornia.com/",
-			"icon": "https://favicongrabber.com/download/https://upornia.com/favicon-96x96.png",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_pornia.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fupornia.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -191,7 +191,7 @@
 			"id": "48",
 			"name": "WetPlace",
 			"url": "https://wetplace.com/",
-			"icon": "https://favicongrabber.com/download/https://wetplace.com/res/wetplace_com/favicon.ico",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_wetplace.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2fwetplace.com%2f",
 			"order": 12,
 			"lan": "en"
@@ -263,7 +263,7 @@
 			"id": "67",
 			"name": "LiveCam",
 			"url": "https://livefreecamx.com/",
-			"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qBBQlg5n9ThcePJeHrwjCEdUux_j7KYo_o9r85CxSvPjjb2K",
+			"icon": "https://raw.githubusercontent.com/sanderseven/QuickCast-Mod/master/72icon_livefreecamx.png",
 			"router": "\/page\/browser?targetUrl=https%3a%2f%2flivefreecamx.com%2f",
 			"order": 11,
 			"lan": "en"
